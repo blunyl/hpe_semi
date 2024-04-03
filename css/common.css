@@ -300,7 +300,7 @@ section::after {
 
 .hero .paragraph::before {
   content: "";
-  background-image: url("./img/beigebg.svg");
+  background-image: url("../img/beigebg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
