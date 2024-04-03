@@ -52,7 +52,7 @@ section::after {
 
 .header::before {
   content: "";
-  background: url("/img/ellipse.svg");
+  background-image: url("../img/ellipse.svg");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -547,7 +547,7 @@ section::after {
 
 .services:hover::after {
   content: "";
-  background-image: url("/img/Rectangle157.png");
+  background-image: url("../img/Rectangle157.png");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -940,7 +940,7 @@ section::after {
 
 .subscribe::before {
   content: "";
-  background-image: url("/img/purplebg.png");
+  background-image: url("../img/purplebg.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -954,7 +954,7 @@ section::after {
 
 .subscribe::after {
   content: "";
-  background: url("/img/MaskGroup.png");
+  background-image: url("../img/MaskGroup.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 480px;
@@ -977,7 +977,7 @@ section::after {
 
 .subscribe h3::before {
   content: "";
-  background: url("/img/MaskGroup2.png");
+  background-image: url("../img/MaskGroup2.png");
   background-repeat: no-repeat;
   background-size: contain;
   width: 590px;
@@ -989,7 +989,7 @@ section::after {
 
 .subscribe h3::after {
   content: "";
-  background-image: url("/img/dottedbgdown.png");
+  background-image: url("../img/dottedbgdown.png");
   background-repeat: no-repeat;
   display: block;
   width: 400px;
@@ -1012,7 +1012,7 @@ section::after {
   width: 16px;
   height: 15px;
   transform: translateY(-50%);
-  background-image: url("/img/email.png");
+  background-image: url("../img/email.png");
   background-repeat: no-repeat;
   background-size: contain;
   z-index: 11;
@@ -1020,7 +1020,7 @@ section::after {
 
 .youremail::after {
   content: "";
-  background: url("/img/subscribeemail.svg");
+  background-image: url("../img/subscribeemail.svg");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
@@ -1220,7 +1220,7 @@ section::after {
 
 .copyright::before {
   content: "";
-  background: url("/img/ellipse.svg");
+  background-image: url("../img/ellipse.svg");
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
