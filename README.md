@@ -21,5 +21,5 @@
 
 ## :paperclip:  출처
 - Font : Google Fonts
-- Imagge : Google 
+- Image : Google 
 - Video : [pixabay](https://pixabay.com/ko/)
