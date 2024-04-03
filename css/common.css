@@ -450,6 +450,9 @@ section::after {
 }
 /*hero end*/
 
+.service {
+  position: relative;
+}
 .service .head {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
@@ -559,6 +562,10 @@ section::after {
   z-index: -4;
 }
 /*services end*/
+
+.destinations {
+  position: relative;
+}
 
 .destinations .head {
   font-family: "Poppins", sans-serif;
@@ -755,6 +762,7 @@ section::after {
 .testimonials {
   margin: 2rem 0 2.5rem 0;
 }
+
 .testimonials .head {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
@@ -1269,10 +1277,14 @@ section::after {
 
   .gnb > li > a {
     background-color: var(--color-bo);
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    color: var(--color-bk);
   }
 
   .gnb .sub a {
-    font-size: 1.2rem;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
     padding: 0.7rem 0.7rem 0.7rem 1.5rem;
   }
 
@@ -1299,6 +1311,8 @@ section::after {
 
   .member a {
     padding: 0.5rem;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
   }
 
   .ham {
