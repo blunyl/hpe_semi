@@ -401,7 +401,7 @@ section::after {
 
 .playBtn::before {
   content: "";
-  background-image: url("./img/plane.svg");
+  background-image: url("../img/plane.svg");
   background-repeat: no-repeat;
   position: absolute;
   display: block;
@@ -417,7 +417,7 @@ section::after {
 
 .cta::before {
   content: "";
-  background-image: url("./img/plane.svg");
+  background-image: url("../img/plane.svg");
   background-repeat: no-repeat;
   position: absolute;
   display: block;
